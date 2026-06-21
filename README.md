@@ -1,4 +1,4 @@
-![image alt](https://github.com/Szuvq/Szuvq/blob/10781a816ff33b955b234d5cb7a721171001c1fa/Welcome%20to%20the%20wired.jpeg)
+![image alt](https://github.com/Szuvq/Szuvq/blob/814b6be4b337002c8d6b2ace557d6e2954df29f0/DEDSEC.gif)
 
 # 🏄‍♂️ Szuvq
 
