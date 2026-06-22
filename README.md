@@ -64,6 +64,13 @@ devoted to:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### Stats
+
+[![Szuvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=szuvq&show_icons=true&theme=transparent)](https://github.com/szuvq/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szuvq&theme=transparent)](https://github.com/szuvq/github-readme-stats&layout=compact)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szuvq/szuvq/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuvq/szuvq/output/github-snake.svg" />
