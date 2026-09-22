@@ -1,4 +1,4 @@
-![image alt](https://github.com/Szuvq/Szuvq/blob/814b6be4b337002c8d6b2ace557d6e2954df29f0/DEDSEC.gif)
+![image alt](https://github.com/Szuvq/Szuvq/blob/c5bfdf2987837a513c574a56830a6908afea48a4/original-a48a75b049655ed3c31fcc3c87417ff7.gif)
 
 # 🏄‍♂️ Szuvq
 
