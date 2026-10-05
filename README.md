@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Ethical+Hacker+(+Red+Team+);privacy+advocate;Linux+distro+hopper;content+creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+ Analyist;Red+Team;Privacy+advocate;Linux+distro+hopper;content+creator" alt="Typing SVG" />
 
 <br/>
 
@@ -25,15 +25,15 @@ location: [REDACTED]
 skills:
   - Threat Analysis/Response
   - AI-Assisted Security Operations
-  - Script Kitty
+  - Low level code
   - Malware Analysis
   - Digital Forensics
 
 devoted to:
   - Privacy
-  - Self-hosting/Homelabs
+  - Self-hosting/Homelabbing
   - Collaborating/Promoting on open-source resources
-  - CyberSecurity
+  - Digital Safety
 
 ```
 ---
