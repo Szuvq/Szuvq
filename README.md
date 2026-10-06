@@ -18,6 +18,7 @@
 Operating Systems
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
 
