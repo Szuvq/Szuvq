@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;Grey+Hat;Content+Creator" alt="Typing SVG" />
 
 <br/>
 
