@@ -30,10 +30,10 @@ skills:
   - Digital Forensics
 
 devoted to:
-  - Privacy
+  - Privacy & Digital Safety
   - Self-hosting/Homelabbing
-  - Collaborating/Promoting on open-source resources
-  - Digital Safety
+  - Creating/Collaborating FOSS resources
+  - Virtual Sovereignty
 
 ```
 ---
