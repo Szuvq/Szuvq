@@ -95,15 +95,6 @@ open_to:
 
 </div>
 
-
-<details>
-<summary>📈 3D Contribution Graph</summary>
-<br/>
-<p align="center">
-    <img width="90%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph">
-</p>
-</details>
-
 ---
 
 ### Stats
