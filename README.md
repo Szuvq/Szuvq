@@ -58,7 +58,7 @@ devoted to:
 currently learning:
   - 🤖 LLM Tuning & Architecture
   - 🛡️ VLESS/Reality
-  - ⚡ Reticulum & cRXN
+  - ⚡ Yggdrasil Network, Reticulum & cRXN
   - 🐛 Creating custom operating systems
 
 open_to:
