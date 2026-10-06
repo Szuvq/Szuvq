@@ -55,7 +55,7 @@ devoted to:
   - Vintage Technology w/ modern capabilities, software
   - Collaborating on security projects
 
-currently_learning:
+currently learning:
   - 🤖 LLM Tuning & Architecture
   - 🛡️ VLESS/Reality
   - ⚡ Reticulum & cRXN
