@@ -1,3 +1,9 @@
+![image alt](https://github.com/Szuvq/Szuvq/blob/5a8a10a6944bc5283e6ae1cf897d134cc72b9425/triplemonitorsetup.gif)
+
+# 🏄‍♂️ Szuvq
+
+**`style even an ai cant generate`**
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -5,18 +11,21 @@
 
 <br/>
 
-[![GitHub Campus Expert](https://img.shields.io/badge/GitHub-Campus_Expert-purple?style=for-the-badge&logo=github)](https://education.github.com/experts)
-[![Pro](https://github.com/Szuvq)
 [![Profile Views](https://komarev.com/ghpvc/?username=Szuvq&style=for-the-badge&color=blue)](https://github.com/Szuvq)
 
 **Dedsec • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
-My OS
-
+Operating Systems
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
+
+Tools:
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 
 </div>
 
@@ -26,7 +35,7 @@ My OS
 
 ```yaml
 name: Saz
-role: Cybersecurity Analyst @ CMIT Solutions
+role: Freelance
 location: [REDACTED]
 
 what i do:
@@ -50,6 +59,7 @@ currently_learning:
   - 🤖 LLM Tuning & Architecture
   - 🛡️ VLESS/Reality
   - ⚡ Reticulum & cRXN
+  - 🐛 Creating custom operating systems
 
 open_to:
   - Remote roles in Data Analysis
@@ -66,7 +76,6 @@ open_to:
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Security & DevSecOps**
@@ -79,11 +88,10 @@ open_to:
 **Languages & Tools**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -115,5 +123,6 @@ open_to:
 ### 🤝 Let's Connect!
 
 <div align="center">
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:cjimmykagge3@protonmail.com)
-[![Session](https://img.shields.io/badge/Session-000?logo=session&logoColor=fff)](05ebc10335f58efcbce9109e7fbd8c41aa5a164c0fff28e45798fbedbceada197b)
+  
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:CJimmyKagge3@Protonmail.com)
+[![Session](https://img.shields.io/badge/Session-000?logo=session&logoColor=fff)](https://getsession.org/)
