@@ -9,13 +9,16 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Grey+Hat;Content+Creator" alt="Typing SVG" />
 
+<img align="right" height="240px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZmOGN3d2V5NXgyN2Vjd3AyaW0waDczYW1mb212ZTdwYTRtcm9xNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSHPlbzUh9xOvPJzWR/giphy.gif" />
+<p align="center">
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Szuvq&style=for-the-badge&color=blue)](https://github.com/Szuvq)
 
 **Dedsec • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
-Operating Systems
+Operating Systems:
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
