@@ -1,4 +1,4 @@
-![image alt](https://github.com/Szuvq/Szuvq/blob/5a8a10a6944bc5283e6ae1cf897d134cc72b9425/triplemonitorsetup.gif)
+![image alt](https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%202.gif)
 
 # 🏄‍♂️ Szuvq
 
@@ -9,7 +9,7 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Grey+Hat;Content+Creator" alt="Typing SVG" />
 
-<img align="right" height="240px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZmOGN3d2V5NXgyN2Vjd3AyaW0waDczYW1mb212ZTdwYTRtcm9xNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSHPlbzUh9xOvPJzWR/giphy.gif" />
+<img align="right" height="480px" width="324px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
 
 <br/>
@@ -20,22 +20,24 @@
 
 Operating Systems:
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
+[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
 
 Tools:
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
 </div>
 
 ---
 
 ### 🚀 About Me
+<img align="right" height="600px" width="480px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" />
+<p align="center">
 
 ```yaml
 name: Saz
@@ -119,5 +121,12 @@ open_to:
 
 <div align="center">
   
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:CJimmyKagge3@Protonmail.com)
-[![Session](https://img.shields.io/badge/Session-000?logo=session&logoColor=fff)](https://getsession.org/)
+<p align="center">
+  <strong><a href="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/publickey.CJimmykagge3%40protonmail.com-cb9f97512c1add5781a10ab5e46becd1616d0a52.asc">PGP</a></strong>
+</p>
+
+[![Proton Mail](https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CJimmyKagge3@Protonmail.com)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sztuki)
+[![Session](https://img.shields.io/badge/Session-000?style=for-the-badge&logo=session&logoColor=green)](https://getsession.org/)
+
+![lain](https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%203.jpg)
