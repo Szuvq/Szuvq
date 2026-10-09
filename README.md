@@ -14,7 +14,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Szuvq&style=for-the-badge&color=blue)](https://github.com/Szuvq)
 
 **Dedsec • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
