@@ -104,7 +104,7 @@ open_to:
 
 ### Stats
 
-<img align="right" height="400px" width="500px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/7aebb29520f4f20df50aa455cd501e2e166b9133/KENMAT_%20Photo.gif" />
+<img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/7aebb29520f4f20df50aa455cd501e2e166b9133/KENMAT_%20Photo.gif" />
 <p align="center">
 
 [![Szuvq's GitHub stats](https://github-readme-stats.vercel.app/api?username=szuvq&show_icons=true&theme=transparent)](https://github.com/szuvq/github-readme-stats)
