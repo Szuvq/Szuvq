@@ -9,7 +9,7 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator" alt="Typing SVG" />
 
-<img align="left" height="220px" width="324px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<img align="left" height="200px" width="324px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
 
 <br/>
