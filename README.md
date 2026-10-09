@@ -36,7 +36,7 @@ Tools:
 ---
 
 ### 🚀 About Me
-<img align="right" height="600px" width="450px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" />
+<img align="right" height="600px" width="420px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" />
 <p align="center">
 
 ```yaml
