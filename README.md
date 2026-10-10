@@ -7,15 +7,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A7A459&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator" alt="Typing SVG" />
 
-<img align="left" height="200px" width="324px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<img align="left" height="180px" width="300px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
 
 <br/>
 
 
-**Dedsec • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
+**DEDSEC • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
 Operating Systems:
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
@@ -63,10 +63,10 @@ devoted to:
 currently learning:
   - 🤖 LLM Tuning & Architecture
   - 🛡️ VLESS/Reality
-  - ⚡ Yggdrasil Network, Reticulum & cRXN
+  - ⚡ Yggdrasil, Reticulum & cRXN
   - 🐛 Creating custom operating systems
 
-open_to:
+open to:
   - Remote roles in Data Analysis
   - Open source collaborations
 ```
@@ -128,7 +128,5 @@ open_to:
 </p>
 
 [![Proton Mail](https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CJimmyKagge3@Protonmail.com)
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sztuki)
-[![Session](https://img.shields.io/badge/Session-000?style=for-the-badge&logo=session&logoColor=green)](https://getsession.org/)
 
 ![lain](https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%203.jpg)
