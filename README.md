@@ -64,7 +64,7 @@ currently learning:
   - 🤖 LLM Tuning & Architecture
   - 🛡️ VLESS/Reality
   - ⚡ Yggdrasil, Reticulum & cRXN
-  - 🐛 Creating custom operating systems
+  - 🐛 Custom operating systems
 
 open to:
   - Remote roles in Data Analysis
