@@ -124,7 +124,7 @@ open to:
 <div align="center">
   
 <p align="center">
-  <strong><a href="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/publickey.CJimmykagge3%40protonmail.com-cb9f97512c1add5781a10ab5e46becd1616d0a52.asc">PGP</a></strong>
+  <strong><a href="https://github.com/Szuvq/Szuvq/blob/877da69e3203ca51e746c650a95d27d6588f222b/Saz.asc">PGP</a></strong>
 </p>
 
 [![Proton Mail](https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CJimmyKagge3@Protonmail.com)
