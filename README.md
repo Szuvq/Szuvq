@@ -5,9 +5,13 @@
 **`style even an ai cant generate`**
 
 <div align="center">
+  
+<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+
+<div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A7A459&center=true&vCenter=true&random=false&width=600&lines=+Szuvq;Cybersecurity+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
 <img align="left" height="180px" width="300px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
@@ -21,26 +25,24 @@ Operating Systems:
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
 
-Tools:
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
 </div>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🚀 About Me
+  
 <img align="right" height="600px" width="420px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" />
 <p align="center">
 
 ```yaml
 name: Saz
-role: Freelance
+role: N/A
 location: [REDACTED]
 
 what i do:
@@ -55,9 +57,8 @@ what i do:
 devoted to:
   - Privacy & Digital Safety
   - Self-hosting/Homelabbing
-  - Creating/Collaborating FOSS resources
-  - Virtual Sovereignty
   - Vintage Technology w/ modern capabilities, software
+  - Creating/Collaborating FOSS resources
   - Collaborating on security projects
 
 currently learning:
@@ -67,13 +68,15 @@ currently learning:
   - 🐛 Custom operating systems
 
 open to:
+  - Entry roles in Red Teaming
   - Remote roles in Data Analysis
   - Open source collaborations
 ```
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
----
-
-### 🛠️ Tech Stack
+<div align="center">
+  
+  ### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  </picture> Skills
 
 <div align="center">
 
@@ -94,15 +97,22 @@ open to:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
-</div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
----
+### <picture> <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>  </picture> Stats
 
-### Stats
+<div align="center">
 
 <img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/7aebb29520f4f20df50aa455cd501e2e166b9133/KENMAT_%20Photo.gif" />
 <p align="center">
@@ -117,9 +127,9 @@ open to:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/szuvq/output/github-snake.svg" />
 </picture>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 🤝 Let's Connect!
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Let's Connect! 🤝
 
 <div align="center">
   
