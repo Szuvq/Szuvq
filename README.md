@@ -45,8 +45,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<img align="right" height="500px" width="450px"  width="100%" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8e5328225444d922c50ec3a9dce25246143cbf0a/LAIN%20LAIN.gif" />
-  
+<img align="right" height="500px" width="340px"  width="100%" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8e5328225444d922c50ec3a9dce25246143cbf0a/LAIN%20LAIN.gif" />
+
 <p align="center">
   
 ### 🚀 About Me
