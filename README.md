@@ -20,7 +20,7 @@
     </td>
     <td width="100%">
       <b>PRESENT DAY, PRESENT TIME</b><br><br>
-      learning everything i can
+      learning everything under the sun
     <br><br>
       <b>⚙️ Operating Systems:</b><br>
       
