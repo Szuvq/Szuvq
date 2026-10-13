@@ -9,7 +9,7 @@
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
-<img align="left" height="140px" width="180" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<img align="left" height="150px" width="195" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/bdbe2662a1ee778e2ea8dcf516aba48790db85a9/I%20AM%20NOISE.gif" />
 <p align="center">
 
 <br/>
@@ -24,6 +24,9 @@ Operating Systems:
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
+
+<img align="right" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<p align="center">
 
 </div>
 
