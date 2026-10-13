@@ -9,14 +9,21 @@
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
-<img align="left" height="150px" width="195" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/bdbe2662a1ee778e2ea8dcf516aba48790db85a9/I%20AM%20NOISE.gif" />
-<p align="center">
-
-<br/>
 
 **DEDSEC • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
-Operating Systems:
+<table>
+  <tr>
+    <td width="30%">
+      <!-- Yahan apne Brain image ka GitHub wala link daalein -->
+      <img src="https://github.com/Szuvq/Szuvq/blob/c3058fd5ab11de0c937ed8aaeda3f7b87a5c9c31/I%20AM%20NOISE.gif" alt="Lain" height="180px" width="300px" width="100%" />
+    </td>
+    <td width="100%">
+      <b>PRESENT DAY, PRESENT TIME</b><br><br>
+      learning everything i can
+    <br><br>
+      <b>⚙️ Operating Systems:</b><br>
+      
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
@@ -27,14 +34,21 @@ Operating Systems:
 
 <img align="right" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" height="600px" width="420px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" />
 <p align="center">
-
+<img align="right" height="500px" width="450px"  width="100%" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8e5328225444d922c50ec3a9dce25246143cbf0a/LAIN%20LAIN.gif" />
+  
+<p align="center">
+  
 ### 🚀 About Me
 
 <div align="left">
@@ -71,6 +85,19 @@ open to:
   - Remote roles in Data Analysis
   - Open source collaborations
 ```
+<table>
+  <tr>
+    <td width="80%">
+      <b>PROJECTS</b><br><br>
+        <br>
+    </td>
+    <td width="20%">
+      <!-- No way you're copying my swag right now lol -->
+      <img src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/Serial%20Experiments%20Lain.gif" alt="Glitch "height="200px" width="280px" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
