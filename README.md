@@ -9,11 +9,10 @@
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
-<img align="left" height="180px" width="300px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<img align="left" height="150px" width="300px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/60acb91e212f7a50ecfae0c5b15444bc80817e77/I%20AM%20NOISE.gif" />
 <p align="center">
 
 <br/>
-
 
 **DEDSEC • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
 
@@ -27,10 +26,9 @@ Operating Systems:
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
 
 
-<div align="right">
+<img align="right" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<p align="center">
   
-<img width="100" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
-
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -134,6 +132,8 @@ open to:
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Let's Connect! 🤝
 
 <div align="center">
+
+<img width="100" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
   
 <p align="center">
   <strong><a href="https://github.com/Szuvq/Szuvq/blob/877da69e3203ca51e746c650a95d27d6588f222b/Saz.asc">PGP</a></strong>
