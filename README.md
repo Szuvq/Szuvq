@@ -9,7 +9,7 @@
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
-<img align="left" height="150px" width="300px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/60acb91e212f7a50ecfae0c5b15444bc80817e77/I%20AM%20NOISE.gif" />
+<img align="left" height="100px" width="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/60acb91e212f7a50ecfae0c5b15444bc80817e77/I%20AM%20NOISE.gif" />
 <p align="center">
 
 <br/>
