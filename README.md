@@ -16,7 +16,7 @@
   <tr>
     <td width="30%">
       <!-- Yahan apne Brain image ka GitHub wala link daalein -->
-      <img src="https://github.com/Szuvq/Szuvq/blob/c3058fd5ab11de0c937ed8aaeda3f7b87a5c9c31/I%20AM%20NOISE.gif" alt="Lain" height="180px" width="300px" width="100%" />
+      <img src="https://github.com/Szuvq/Szuvq/blob/c3058fd5ab11de0c937ed8aaeda3f7b87a5c9c31/I%20AM%20NOISE.gif" alt="Lain" height="180px" width="100%" />
     </td>
     <td width="100%">
       <b>PRESENT DAY, PRESENT TIME</b><br><br>
@@ -32,7 +32,7 @@
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
 
-<img align="right" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
+<img align="center" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
     </td>
   </tr>
