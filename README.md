@@ -16,7 +16,7 @@
   <tr>
     <td width="30%">
       <!-- Yahan apne Brain image ka GitHub wala link daalein -->
-      <img src="https://github.com/Szuvq/Szuvq/blob/c3058fd5ab11de0c937ed8aaeda3f7b87a5c9c31/I%20AM%20NOISE.gif" alt="Lain" height="180px" width="100%" />
+      <img src="https://github.com/Szuvq/Szuvq/blob/c3058fd5ab11de0c937ed8aaeda3f7b87a5c9c31/I%20AM%20NOISE.gif" alt="Lain" height="250px" width="250px" width="100%" />
     </td>
     <td width="100%">
       <b>PRESENT DAY, PRESENT TIME</b><br><br>
