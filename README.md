@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=A7A459&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&color=ccbb8f&size=28&duration=4000&pause=1000&lines=Szuvq;Security+Analyst;Privacy+Advocate;Security+Researcher;Linux+Distro+Hopper;FOSS+Enthusiast;Content+Creator)](https://git.io/typing-svg)
 
 
 **DEDSEC • 🏆 JOIN US • 🌍 Open to Remote Opportunities**
@@ -24,13 +24,13 @@
     <br><br>
       <b>⚙️ Operating Systems:</b><br>
       
-[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
-[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000)](#)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0F52BA?logo=kalilinux&logoColor=fff)](#)
-[![GrapheneOS](https://img.shields.io/badge/GrapheneOS-131313?&logo=GrapheneOS&logoColor=white)](#)
+[![Void Linux](https://img.shields.io/badge/Void%20Linux-d2738a?logo=voidlinux&logoColor=fff)](#)
+[![CachyOS](https://img.shields.io/badge/CachyOS-d2738a?logo=cachyos&logoColor=fff)](#)
+[![Debian](https://img.shields.io/badge/Debian-d2738a?logo=debian&logoColor=fff)](#)
+[![OpenBSD](https://img.shields.io/badge/OpenBSD-000000?logo=openbsd&logoColor=d2738a)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ccbb8f.svg?logo=raspberrypi&logoColor=000)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-ccbb8f?logo=kalilinux&logoColor=000)](#)
+[![GrapheneOS](https://img.shields.io/badge/GrapheneOS-ccbb8f?&logo=GrapheneOS&logoColor=000)](#)
 
 <img align="center" height="100px" alt="GIF" src="https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%201.gif" />
 <p align="center">
@@ -108,32 +108,32 @@ open to:
 
 **Cloud & Infrastructure**
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![Azure](https://custom-icon-badges.demolab.com/badge/Azure%20-0089D6?logo=msazure&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-d2738a.svg?logo=aws&logoColor=white)](#)
+[![Azure](https://custom-icon-badges.demolab.com/badge/Azure%20-d2738a?logo=msazure&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-ccbb8f?logo=docker&logoColor=000)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-ccbb8f?logo=Cloudflare&logoColor=000)](#)
 
 **Security & DevSecOps**
 
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-d2738a?style=for-the-badge&logo=aqua&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-d2738a?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-ccbb8f?style=for-the-badge&logo=sonarqube&logoColor=000)
+![Falco](https://img.shields.io/badge/Falco-ccbb8f?style=for-the-badge&logo=falco&logoColor=000)
 
 **Languages & Tools**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-d2738a?logo=python&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-d2738a?logo=linux&logoColor=fff)](#)
+![C](http://img.shields.io/badge/-C-d2738a?style=flat-square&logo=c&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-d2738a?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-d2738a?style=flat&logo=git&logoColor=%23ffffff)
+[![HTML](https://img.shields.io/badge/HTML-d2738a.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-ccbb8f?logo=css&logoColor=000)](#)
+![Shell Script](https://img.shields.io/badge/Shell_Script-ccbb8f?style=flat-square&logo=gnu-bash&logoColor=000)
+[![Obsidian](https://img.shields.io/badge/Obsidian-ccbb8f.svg?&logo=obsidian&logoColor=000)](#)
+[![Vim](https://img.shields.io/badge/Vim-ccbb8f.svg?logo=vim&logoColor=000)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-ccbb8f?logo=qwen&logoColor=000)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-ccbb8f?logo=ollama&logoColor=000)](#)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -166,6 +166,6 @@ open to:
   <strong><a href="https://github.com/Szuvq/Szuvq/blob/877da69e3203ca51e746c650a95d27d6588f222b/Saz.asc">PGP</a></strong>
 </p>
 
-[![Proton Mail](https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CJimmyKagge3@Protonmail.com)
+[![Proton Mail](https://img.shields.io/badge/Email-Contact-d2738a?style=for-the-badge&logo=protonmail&logoColor=ccbb8f)](mailto:CJimmyKagge3@Protonmail.com)
 
 ![lain](https://github.com/Szuvq/Szuvq/blob/8b34b749cb88fea25f45e09a5289d161813c9f63/lain%203.jpg)
