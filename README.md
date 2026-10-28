@@ -123,17 +123,17 @@ open to:
 **Languages & Tools**
 
 [![Python](https://img.shields.io/badge/Python-d2738a?logo=python&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-d2738a?logo=linux&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=d2738a)](#)
 ![C](http://img.shields.io/badge/-C-d2738a?style=flat-square&logo=c&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-d2738a?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-d2738a?style=flat&logo=git&logoColor=%23ffffff)
 [![HTML](https://img.shields.io/badge/HTML-d2738a.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-ccbb8f?logo=css&logoColor=000)](#)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-ccbb8f?style=flat-square&logo=gnu-bash&logoColor=000)
-[![Obsidian](https://img.shields.io/badge/Obsidian-ccbb8f.svg?&logo=obsidian&logoColor=000)](#)
-[![Vim](https://img.shields.io/badge/Vim-ccbb8f.svg?logo=vim&logoColor=000)](#)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-ccbb8f?logo=qwen&logoColor=000)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-ccbb8f?logo=ollama&logoColor=000)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-ccbb8f?logo=qwen&logoColor=000)](#)
+[![Vim](https://img.shields.io/badge/Vim-000000.svg?logo=vim&logoColor=d2738a)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-ccbb8f.svg?&logo=obsidian&logoColor=000)](#)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
