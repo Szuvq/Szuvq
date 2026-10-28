@@ -128,7 +128,7 @@ open to:
 ![Markdown](https://img.shields.io/badge/-Markdown-d2738a?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-d2738a?style=flat&logo=git&logoColor=%23ffffff)
 [![HTML](https://img.shields.io/badge/HTML-d2738a.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-ccbb8f?logo=css&logoColor=000)](#)
+[![CSS](https://img.shields.io/badge/CSS-000000?logo=css&logoColor=d2738a)](#)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-ccbb8f?style=flat-square&logo=gnu-bash&logoColor=000)
 [![Ollama](https://img.shields.io/badge/Ollama-ccbb8f?logo=ollama&logoColor=000)](#)
 [![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-ccbb8f?logo=qwen&logoColor=000)](#)
